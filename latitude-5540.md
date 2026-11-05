@@ -1,4 +1,4 @@
-# Laptop_Setup
+# Latitude 5540
 ## Type
 Dell Latitude 5540 with 2 ssds
 

@@ -1,4 +1,4 @@
-# Laptop_Setup
+# machine-setup
 my current config
 ## Type
 HP Elitebook 8 G1i 16"
