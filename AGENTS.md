@@ -1,6 +1,9 @@
 ## Generated documents
 Save reports and other generated documents to `~/Dokumente/Agents`: in `<repo-name>/` for work on a repo, otherwise in `YYYY-MM-DD/<task>/`. Use another location only if I ask for one or the repo documents its own.
 
+## Repo docs
+Keep developer docs in `docs/dev/`, architecture decisions in `docs/adr/`, and work in progress in `tasks/`, moving finished task docs to `tasks/archive/`. Create these folders when first needed. `AGENTS.md` holds only rules and gotchas an agent can't find by looking; explanations for people go in the README or `docs/dev/`.
+
 ## App UI
 **No information clutter.** Write every screen for a normal user, never like code documentation. Show only what helps the user understand or act at that moment. Leave out explanations of the obvious, implementation details, internal states and technical terms. Give each fact and control one home, and repeat it only where it changes what the user does next.
 
