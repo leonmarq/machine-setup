@@ -46,12 +46,12 @@ Add this to `~/.claude/settings.json`. If a `hooks` key already exists, add `Ses
 2. Run `ls -la ~/.claude/skills`. Your skills should be listed as symlinks.
 3. Type `/<installed-skill>`. If it isn't there yet, start one more session.
 
-## Use skills from this repo
+## Use your own skills
 
-Skills in `skills/` are versioned here. Link each one into `~/.agents/skills`, and the hook above picks it up:
+Your own skills live in the `ai-skills` repo. Clone it to `~/Code/ai-skills`, then link each skill into `~/.agents/skills`, and the hook above picks it up:
 
 ```bash
-ln -s ~/Code/machine-setup/skills/pilot ~/.agents/skills/pilot
+ln -s ~/Code/ai-skills/skills/pilot ~/.agents/skills/pilot
 ```
 
 ## Good to know
