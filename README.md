@@ -1,5 +1,9 @@
 # machine-setup
 my current config
+
+> [!NOTE]
+> This is written for my German system and personal needs, so it may need changes on other people's machines.
+
 ## Type
 HP Elitebook 8 G1i 16"
 
