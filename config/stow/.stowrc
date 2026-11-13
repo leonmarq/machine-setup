@@ -1,0 +1,4 @@
+--dir=~/Code/machine-setup/config
+--target=~
+--ignore=/stupidshitfolder
+'--ignore=\.stowrc'
